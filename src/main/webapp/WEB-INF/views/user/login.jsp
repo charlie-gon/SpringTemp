@@ -25,6 +25,7 @@
 		<button>로그인</button>&nbsp;&nbsp;
 		<button>취소</button>
 	</form>
-
+<h3>카카오 로그인</h3>
+<a href="https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=0b594fc45bb5f0d24a765caaced28b1c&redirect_uri=http://localhost/bank/callback">카카오 로그인</a>
 </body>
 </html>
